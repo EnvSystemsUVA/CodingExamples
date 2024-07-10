@@ -1,5 +1,9 @@
 # CodingExamples
-Python notebooks with optimization examples (and an interactive simulation game)
+Python notebooks with optimization examples (and an interactive simulation game).  
+
+Notebooks 5 and 6 were translated from Julia notebooks 3 and 5 in [this repository](https://github.com/Power-Systems-Optimization-Course/power-systems-optimization) by [Michael Davidson](https://gps.ucsd.edu/faculty-directory/michael-davidson.html) and [Jesse Jenkins](https://mae.princeton.edu/people/faculty/jenkins).
+
+All other notebooks were written by [Julianne Quinn](https://engineering.virginia.edu/faculty/julianne-quinn) for the course CE 4110/6250 Environmental Systems Modeling and Management at UVA. The course syllabus can be found [here](https://envsystemsuva.github.io/), and templates for homework assignments are available [here](https://github.com/EnvSystemsUVA/HomeworkTemplates).
 
 # Links to Notebooks on Google Colab
 [Reservoir Simulation Game](https://colab.research.google.com/github/EnvSystemsUVA/CodingExamples/blob/main/ReservoirSimulation.ipynb)  
