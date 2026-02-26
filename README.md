@@ -18,7 +18,7 @@ All other notebooks were written by [Julianne Quinn](https://engineering.virgini
 [06_LP_PowerCapacityExpansion_Pandas](https://colab.research.google.com/github/EnvSystemsUVA/CodingExamples/blob/main/06_LP_PowerCapacityExpansion_Pandas.ipynb)  
 [07_MILP_UCEDmodel](https://colab.research.google.com/github/EnvSystemsUVA/CodingExamples/blob/main/07_MILP_UCEDmodel.ipynb)  
 [07_MILP_UCEDmodel_Pandas](https://colab.research.google.com/github/EnvSystemsUVA/CodingExamples/blob/main/07_MILP_UCEDmodel_Pandas.ipynb)  
-[08_DPexample](https://colab.research.google.com/github/EnvSystemsUVA/CodingExamples/blob/main/08_DPexample1.ipynb)  
+[08_DPexample1](https://colab.research.google.com/github/EnvSystemsUVA/CodingExamples/blob/main/08_DPexample1.ipynb)  
 [08_DPexample2](https://colab.research.google.com/github/EnvSystemsUVA/CodingExamples/blob/main/08_DPexample2.ipynb)  
 [09_NLP_example1b_withUncertainty](https://colab.research.google.com/github/EnvSystemsUVA/CodingExamples/blob/main/09_NLP_example1b_withUncertainty.ipynb)  
 [10_AirQualityExample](https://colab.research.google.com/github/EnvSystemsUVA/CodingExamples/blob/main/10_AirQualityExample.ipynb)  
